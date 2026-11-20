@@ -1,0 +1,15 @@
+filelock==4.1.0
+fsspec==2026.9.0
+grpcio==1.85.0
+Jinja2==3.1.6
+MarkupSafe==3.0.4
+mpmath==1.3.0
+networkx==3.4.2
+numpy==1.26.4
+packaging==26.3
+pillow==12.3.0
+protobuf==3.20.3
+sympy==1.14.0
+torch==2.14.1
+typing_extensions==4.16.0
+unityagents @ file:///Users/shailajakotagiri/Documents/RL/Udacity-RL/deep-reinforcement-learning/python
